@@ -13,7 +13,6 @@ The code for this program uses the jetson nano. The jetson nano helps by trainin
 1. Download the file
 2. Open up Jupyter Lab
 3. Run all the code
-4. Take pictures of yourself using good and bad posture
-5. Click train
+5. Click live and watch the computer tell you how good your posture is.
 
 [View a video explanation here](video link)
