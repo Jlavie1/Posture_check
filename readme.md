@@ -15,4 +15,4 @@ The code for this program uses the jetson nano. The jetson nano helps by trainin
 3. Run all the code
 5. Click live and watch the computer tell you how good your posture is.
 
-[View a video explanation here](video link)
+([video link](https://www.youtube.com/watch?v=weHF4-NQ208)https://www.youtube.com/watch?v=weHF4-NQ208)
