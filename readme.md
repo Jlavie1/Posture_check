@@ -2,7 +2,7 @@
 
 This program is a must-have for people who have bad posture. Have this run in the background and watch it simultaneously check if you have good or bad posture at the current moment.
 
-![add image descrition here]([Imgur](https://imgur.com/Qgat3xn))
+[Imgur](https://imgur.com/Qgat3xn))
 
 ## The Algorithm
 
